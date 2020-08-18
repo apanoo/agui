@@ -1,0 +1,9 @@
+[submodule "thirdparty/imgui"]
+	path = thirdparty/imgui
+	url = https://github.com/apanoo/imgui
+[submodule "thirdparty/glad"]
+	path = thirdparty/glad
+	url = https://github.com/apanoo/glad
+[submodule "thirdparty/SDL2"]
+	path = thirdparty/SDL2
+	url = https://github.com/apanoo/SDL2
